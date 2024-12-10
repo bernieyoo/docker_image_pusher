@@ -1,3 +1,4 @@
+yegle/fava
 #nginx
 #支持私库
 ##k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -9,4 +10,4 @@
 #yuexuangu/allinone_format:latest
 #emby/embyserver
 #vaultwarden/server:1.32.0-alpine
---platform=linux/amd64 ubuntu:22.04
+#--platform=linux/amd64 ubuntu:22.04
