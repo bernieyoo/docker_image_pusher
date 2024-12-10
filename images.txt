@@ -9,3 +9,4 @@ youshandefeiyang/allinone
 yuexuangu/allinone_format:latest
 emby/embyserver
 vaultwarden/server:1.32.0-alpine
+--platform=linux/amd64 ubuntu
