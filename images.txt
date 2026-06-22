@@ -11,4 +11,5 @@
 #emby/embyserver
 #vaultwarden/server:1.32.0-alpine
 #--platform=linux/amd64 ubuntu:22.04
-mintplexlabs/anythingllm
+# mintplexlabs/anythingllm
+vaultwarden/server:latest-alpine
