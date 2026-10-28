@@ -9,10 +9,10 @@
 #youshandefeiyang/allinone
 #yuexuangu/allinone_format:latest
 #emby/embyserver
-#vaultwarden/server:1.32.0-alpine
 #--platform=linux/amd64 ubuntu:22.04
 # mintplexlabs/anythingllm
 #vaultwarden/server:1.36.0
 #docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest
 #php:8.2-fpm
-php:8.2-fpm-alpine
+#php:8.2-fpm-alpine
+aikido/php:7.2-fpm
